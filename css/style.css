@@ -495,7 +495,7 @@ input[type="search"].sb-search-input {
 	max-width: 100%;
 }
  .main-image{ 
-	background-image: url(img/main-Recovered.jpg);
+	background-image: url(https://alamons.github.io/img/main-Recovered.jpg);
 	background-size: cover;
 	min-height: 600px;
 	width: 100%;
@@ -503,7 +503,7 @@ input[type="search"].sb-search-input {
 	background-repeat: no-repeat;
   }
   .main-image1{ 
-	background-image: url(img/main-Recovered1.jpg);
+	background-image: url(https://alamons.github.io/img/main-Recovered1.jpg);
 	background-size: cover;
 	min-height: 600px;
 	width: 100%;
@@ -624,7 +624,7 @@ i.fa.fa-chevron-right{
 	border-radius: 50%;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
-	background: url(img/000.jpg) no-repeat;
+	background: url(https://alamons.github.io/img/000.jpg) no-repeat;
 	background-position: center center;
 	background-size: cover;
 	position: relative;
@@ -666,7 +666,7 @@ i.fa.fa-chevron-right{
 	position: relative;
 }
 .paralax-image{
-	background-image: url(img/main-Recovered-Recovered-Recovered.jpg);
+	background-image: url(https://alamons.github.io/img/main-Recovered-Recovered-Recovered.jpg);
 	background-size: cover;
 	min-height: 300px;
 	width: 100%;
