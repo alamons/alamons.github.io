@@ -1,57 +1,3 @@
-/*
-Template Name: BOOT Expert
-Description: HTML5 / BOOTSTRAP / CSS3 One Page
-Version: 1.0
-Author: Reza
-*/
-/*=======================================================================
-[Table of contents]
-=========================================================================
-1. General
-    1.1 Main Styles
-    1.2 Anchor
-2. Typography
-    2.1 Headings
-    2.2 Selection Color
-    2.3 Colors
-	2.4 Browser Upgrade Prompt
-3. Home Section
-	3.1 Header-area
-	3.2 Info
-	3.3 Language Switcher
-	3.4 Social Icons
-4. Menu Section
-	4.1 Menu
-	4.3 Search
-5. Slider Area
-6. About Section
-7. Graphic Content Section
-8. Our Services Section
-	8.1 Our service Left Content
-	8.2 Our service Right Content
-9. Latest Project Section
-	9.1 Latest Title Area
-	9.2 Portfolio Area
-	9.3 Client Area
-10. Feature Section
-11. Meet Our Team Section
-	11.1 Our Team
-	11.2 Our Skill
-	11.3 Our History
-12. Gross Section
-13. Pricing Table Section
-14. News Blog Section
-15. Contact Information Section
-	15.1 Contact Info
-	15.2 Map Area
-	15.3 Contact Form
-16. Footer Top Section
-17. Footer Section
-/* ==========================================================================
-   1. General
-========================================================================== */
-	/* 1.1 Main Styles
-	---------------------------------------------------------------------------*/
 body {
     margin: 0;
 	height: 100%;
@@ -631,18 +577,14 @@ i.fa.fa-chevron-right{
 }
 .about-icon i{
 	float: left;
-	font-size: 48px;
-	width: 70px;
-	height: 70px;
+	font-size: 42px;
+	width: 50px;
+	height: 50px;
 	text-align: center;
-	line-height: 70px;
+	line-height: 50px;
 	font-weight: 500;
-	margin-right: 30px;
+	margin-right: 10px;
 	color: #d24d57 !important;
-	border: 1px solid #cecdca !important;
-	border-radius: 50% !important;
-	-moz-border-radius: 50% !important;
-	-webkit-border-radius: 50%;
 }
 .about-icon i:hover{
 	color: #ffffff !important;
